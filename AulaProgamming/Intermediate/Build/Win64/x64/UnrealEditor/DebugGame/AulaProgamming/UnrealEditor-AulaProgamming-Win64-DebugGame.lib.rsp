@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AulaProgamming-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\AulaProgammingEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\AulaProgamming.init.gen.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\MyCharacter.gen.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\MyPlayerControllerC_mais_mais.gen.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\OnInteract.gen.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\AulaProgamming.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\MyCharacter.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\MyPlayerControllerC_mais_mais.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\OnInteract.cpp.obj"
+"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\Default.rc2.res"
+/OUT:"C:\Users\Josep\OneDrive\Documentos\Unreal Projects\AulaProgamming\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\AulaProgamming\UnrealEditor-AulaProgamming-Win64-DebugGame.lib"

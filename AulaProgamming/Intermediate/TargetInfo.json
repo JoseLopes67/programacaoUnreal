@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AulaProgamming",
+			"Path": "..\\Source\\AulaProgamming.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AulaProgammingEditor",
+			"Path": "..\\Source\\AulaProgammingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

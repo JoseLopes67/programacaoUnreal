@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\josep\\onedrive\\documentos\\unreal projects\\aulaprogamming\\source\\aulaprogamming\\oninteract.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\josep\\onedrive\\documentos\\unreal projects\\aulaprogamming\\intermediate\\build\\win64\\x64\\aulaprogammingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\josep\\onedrive\\documentos\\unreal projects\\aulaprogamming\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aulaprogamming\\definitions.aulaprogamming.h",
+            "c:\\users\\josep\\onedrive\\documentos\\unreal projects\\aulaprogamming\\source\\aulaprogamming\\oninteract.h",
+            "c:\\users\\josep\\onedrive\\documentos\\unreal projects\\aulaprogamming\\intermediate\\build\\win64\\unrealeditor\\inc\\aulaprogamming\\uht\\oninteract.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AulaProgamming.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AulaProgamming.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AulaProgammingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AulaProgamming">
+      <UniqueIdentifier>{5BEF4ECE-DF19-323B-A219-25E24DF4C9D5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AulaProgamming\AulaProgamming.Build.cs">
+      <Filter>Source\AulaProgamming</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AulaProgamming\AulaProgamming.cpp">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AulaProgamming\AulaProgamming.h">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AulaProgamming\MyCharacter.cpp">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AulaProgamming\MyCharacter.h">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AulaProgamming\MyPlayerControllerC_mais_mais.cpp">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AulaProgamming\MyPlayerControllerC_mais_mais.h">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AulaProgamming\OnInteract.cpp">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AulaProgamming\OnInteract.h">
+      <Filter>Source\AulaProgamming</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
